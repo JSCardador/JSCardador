@@ -26,7 +26,7 @@ Actualmente lidero el departamento de XR en VT-Lab, donde combino mi pasión por
 ---
 
 ## 📂 Proyectos destacados  
-### 🔗 [LinkShortener](https://github.com/tu-usuario/LinkShortener)  
+### 🔗 [LinkShortener](https://github.com/JSCardador/LinkShortener)  
 > Acortador de enlaces simple y eficiente, desarrollado en **ASP.NET** y usando **Redis** como base de datos.  
 - **Funciones principales:**  
   - Crear enlaces acortados con una API REST.  
@@ -34,7 +34,7 @@ Actualmente lidero el departamento de XR en VT-Lab, donde combino mi pasión por
 
 ---
 
-### 🧠 [RecommendationModel](https://github.com/tu-usuario/RecommendationModel)  
+### 🧠 [RecommendationModel](https://github.com/JSCardador/RecommendationModel) 
 > Sistema de recomendaciones basado en **Matrix Factorization** para un modelo escalable.  
 - **Características:**  
   - Entrenamiento del modelo en ML.NET.  
